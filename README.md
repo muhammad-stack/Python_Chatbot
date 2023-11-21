@@ -1,4 +1,4 @@
-Simple Python Chatbot
+<b>Simple Python Chatbot<b/>
 This is a basic rule-based chatbot implemented in Python. It responds to predefined prompts and can be extended for more complex interactions. Feel free to customize and enhance it according to your needs!
 
 Usage
